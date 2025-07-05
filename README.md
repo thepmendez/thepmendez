@@ -41,7 +41,7 @@
 &nbsp; <a href="mailto:pmendez@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [devSouvik](https://github.com/devSouvik)
+⭐️ From [devSouvik](https://github.com/thepmendezdev)
 
 <!--
 **thepmendez/thepmendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
