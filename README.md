@@ -20,12 +20,38 @@
 
 <h3>🎓 Certificates</h3>
 
-📃[University](https://github.com/user-attachments/files/21093915/Titulo.Universitario.pdf)
-📃
-📃
 
+📃 From [University](https://github.com/user-attachments/files/21093915/Titulo.Universitario.pdf)
 
+📃 From [PROXMOX](https://github.com/user-attachments/files/21093956/CERT-PROXMOX.pdf)
 
+📃 From [Topologias con Fibra Optica](https://github.com/user-attachments/files/21093968/Topologias.de.Conexion.con.Fibra.Optica.pdf)
+
+📃 From [Tipos de Fibra Optica](https://github.com/user-attachments/files/21093971/Tipos.de.Fibra.Optica.pdf)
+
+📃 From [Limitaciones del Cobre Orientado a la Fibra Optica](https://github.com/user-attachments/files/21093970/Limitaciones.del.Cobre.Orientado.a.la.Fibra.Optica.pdf)
+
+📃 From [Conectorizacion de Fibra Optica](https://github.com/user-attachments/files/21093969/Conectorizacion.de.Fibra.Optica.pdf)
+
+📃 From [CCNA Intr](https://github.com/user-attachments/files/21093993/CCNA_Intr-certificate.pdf)
+
+📃 From [Watchguard NSE](https://github.com/user-attachments/files/21093992/Watchguard.NSE.pdf)
+
+📃 From [SQL My SQL](https://github.com/user-attachments/files/21093987/SQL.My.SQL.pdf)
+
+📃 From [NSE_2](https://github.com/user-attachments/files/21093994/NSE_2.pdf)
+
+📃 From [NSE_1](https://github.com/user-attachments/files/21093996/NSE_1.pdf)
+
+📃 From [NDG Linux](https://github.com/user-attachments/files/21093990/NDG.Linux.Unhatc-certificate.pdf)
+
+📃 From [DevOps Pre Requisite](https://github.com/user-attachments/files/21093989/KodeKloud-DevOps-Pre-Requisite.pdf)
+
+📃 From [Diplomado en Soft Skills y Habilidades Directivas](https://github.com/user-attachments/files/21093995/Diplomado.en.Soft.Skills.y.Habilidades.Directivas.pdf)
+
+📃 From [CyberOps Associate](https://github.com/user-attachments/files/21093988/CyberOps_Associate_certificate_pabloleonym-outlook-com_dc6ae671-8ff1-458a-903a-3c1dc1ee2649.pdf)
+
+📃 From [Phyton](https://github.com/user-attachments/files/21093991/certificate-phyton.pdf)
 
 
 <br>
@@ -46,7 +72,7 @@
 &nbsp; <a href="mailto:pmendez@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [thepmendezdev](https://github.com/thepmendezdev)
+⭐️ From [thepmendezdev](https://github.com/thepmendez)
 
 <!--
 **thepmendez/thepmendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
