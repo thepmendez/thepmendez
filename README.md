@@ -1,7 +1,9 @@
-<h2> Hey there! I'm Pablo Mendez. <img src="https://github.com/user-attachments/assets/a91caa83-d04b-444e-9e01-5152e9c006c1" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/a91caa83-d04b-444e-9e01-5152e9c006c1" width="500"/>
+# <div align="center">🚀 Hey there! I'm Pablo Mendez.</div>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h1>Cloud DevOps Engineer | AWS | Docker | Kubernetes | CI/CD <img src="https://github.com/user-attachments/assets/a91caa83-d04b-444e-9e01-5152e9c006c1" width="25"><img align="right" alt="GIF" src="https://github.com/user-attachments/assets/a91caa83-d04b-444e-9e01-5152e9c006c1" width="500"</h1>
+
+
+# <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Electronic engineer with a master's degree in software development and DevOps culture.
 - 😎 &nbsp; Software and AI Enthusiast.
