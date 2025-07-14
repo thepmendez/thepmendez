@@ -1,13 +1,22 @@
-# <div align="center">🚀 Hey there! I'm Pablo Mendez</div> Cloud DevOps Engineer | AWS | Docker | Kubernetes | CI/CD. 
-<img src="https://github.com/user-attachments/assets/a91caa83-d04b-444e-9e01-5152e9c006c1" width="25"> <img align="right" alt="GIF" src="https://github.com/user-attachments/assets/a91caa83-d04b-444e-9e01-5152e9c006c1" width="500">
+# <div align="center">🚀 **Pablo Mendez**</div>
 
+<div align="center">
 
-# <h1> 👨🏻‍💻 About Me </>
+Hey there! 👋 I'm a passionate DevOps Engineer on a mission to automate and scale cloud infrastructures efficiently.
+Cloud DevOps Engineer | AWS | Docker | Kubernetes | CI/CD.
+
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/a91caa83-d04b-444e-9e01-5152e9c006c1" width="500">
+
+</div>
+
+👨🏻‍💻 About Me
 
 - 🎓 &nbsp; Electronic engineer with a master's degree in software development and DevOps culture.
 - 😎 &nbsp; Software and AI Enthusiast.
 - ⚡ &nbsp; Learning about new technologies and listening to music are my hobbies.
-- ☕ &nbsp; I always start my days with a good cup of coffee. 
+- ☕ &nbsp; I always start my days with a good cup of coffee.
+
+</div>
 
 <br>🛠 Tech Stack</br>
 
