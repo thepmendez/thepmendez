@@ -3,7 +3,6 @@
 <div align="center">
 
 Hey there! 👋 I'm a passionate DevOps Engineer on a mission to automate and scale cloud infrastructures efficiently.
-Cloud DevOps Engineer | AWS | Docker | Kubernetes | CI/CD.
 
 <img align="right" alt="GIF" src="https://github.com/user-attachments/assets/a91caa83-d04b-444e-9e01-5152e9c006c1" width="500">
 
@@ -24,8 +23,15 @@ Cloud DevOps Engineer | AWS | Docker | Kubernetes | CI/CD.
 - 🔧 &nbsp; Visual Studio code | Git | Jenkins | Ansible
 - 💻 &nbsp; Python | Java | C# 
 - 🌐 &nbsp; HTML | JavaScript
-- 🛢 &nbsp; MySQL | SQL | Firebase
+- 🛢 &nbsp; MySQL | Firebase
 - 🖥 &nbsp; Adobe | Illustrator | Photoshop
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,py,java,cs,mysql,html,vscode,github,terraform,jenkins,powershell,raspberrypi,arduino&perline=18" />
+  </a>
+</p>
 
 
 <br>🎓 Certificates</br>
